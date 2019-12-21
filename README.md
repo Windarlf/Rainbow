@@ -4,5 +4,5 @@ Bot Altyapı Projesine Hoşgeldin!
  
 -------------------
 
-`İyi Kodlamalar ay iyi düzeltmeler`
+`İyi Kodlamalar`
 
